@@ -1,0 +1,21 @@
+[
+  {
+    "type": "java",
+    "name": "jar (in project MecDrive_NEW)",
+    "extensions": [
+      {
+        "name": "Sim DriverStation",
+        "libName": "/Users/robotics/Desktop/MecDrive_NEW/build/jni/release/libhalsim_ds_socket.dylib",
+        "defaultEnabled": false
+      },
+      {
+        "name": "Sim GUI",
+        "libName": "/Users/robotics/Desktop/MecDrive_NEW/build/jni/release/libhalsim_gui.dylib",
+        "defaultEnabled": true
+      }
+    ],
+    "environment": {},
+    "libraryDir": "/Users/robotics/Desktop/MecDrive_NEW/build/jni/release",
+    "mainClassName": "frc.robot.Main"
+  }
+]
